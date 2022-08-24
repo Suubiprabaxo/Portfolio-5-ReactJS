@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "year":"Fev, 2018 - Presente",
+        "companyname":"UNINASSAU",
+        "position":"Tec Informática",
+        "desc":"- HTML, CSS, Bootstrap, Javascript - Responsável pela manutenção de todos computadores e desenvolvimento nas horas vagas"
+    },
+    {
+        "id":2,
+        "year":"Jun, 2021 - Set, 2021",
+        "companyname":"Projeto Freelancer",
+        "position":"Web Developer",
+        "desc":"- HTML, CSS, Bootstrap, Javascript, jQuery, SASS - Desenvolvimento de uma aplicação de um portfolio para divulgação de um time de debates"
+    }
+
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "coursename":"Técnico em informática",
+        "courseyear":"2013 / 2016",
+        "institute":"Colégio Lemos de Castro",
+        "grade":"Declarado melhor TCC do curso"
+    },
+    {
+        "id":2,
+        "coursename":"Bacharelado em Ciência da Computação",
+        "courseyear":"2018 / 2022",
+        "institute":"Universidade UNINASSAU",
+        "grade":"Graduado com honras - 87% de aproveitamento"
+    }
+]

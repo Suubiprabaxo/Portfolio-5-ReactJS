@@ -1,0 +1,18 @@
+
+[
+    {
+        "id":1,
+        "servicename":"Desenvolvimento de Apps",
+        "imgg":"https://raw.githubusercontent.com/poojagarva28/portfolio/master/src/Data/Serviceimg/graphic-design.png"
+    },
+    {
+        "id":2,
+        "servicename":"Layouts interativos",
+        "imgg":"https://raw.githubusercontent.com/poojagarva28/portfolio/master/src/Data/Serviceimg/web-design.png"
+    },
+    {
+        "id":3,
+        "servicename":"Desenvolvimento Web",
+        "imgg":"https://raw.githubusercontent.com/poojagarva28/portfolio/master/src/Data/Serviceimg/web-development.png"
+    }
+]
